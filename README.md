@@ -51,7 +51,7 @@ I have been able to train two good candidates for the business problem stated.
     * AUC: 0.92
     * F1 Score: 0.86
     * Accuracy: 0.86
-    * Features used: 27
+    * Features used: 17
     * Path to features: `models/features_by_models/XGBClassifier_0.82.txt`
 
 ![XGBClassifier-v4](outputs/plots_roc_curve/XGBClassifier-v4.png)
