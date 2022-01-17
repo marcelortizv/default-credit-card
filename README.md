@@ -3,9 +3,20 @@ The objective of the exercise is to find a model that explains the
 probability of customer default using the input variables. 
 The target variable is: `default payment next month`.
 
+### Setup: Conda (optional)
+
+If you already hace Anaconda in your local machine, you can configure an environment
+to reproduce the results of this repo with the following steps:
+1. To create an environment: `conda create --name MYENV_NAME python=3.8`
+2. When conda asks you to proceed, type `y`:
+3. Activate the new environment: `conda activate MYENV_NAME`
+4. Verify that the new environment was installed correctly: `conda env list`
+5. Install requirements
+6. Happy coding :)
+
 ### Requirements
 
-* Python 3
+* Python 3.8
 * Install dependencies with: `pip install -r requirements.txt`
 ## About
 This repository holds the code to make the analysis and model training.
